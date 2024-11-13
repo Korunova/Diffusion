@@ -1,8 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr  3 21:43:32 2024
+SPT analyses of tracks estimated by Mosaic Suite
 
-@author: Huawei
+Code includes estimation of drift
+Remove os static error
+Direct remove of dynamic error
+
+As a result, it collectes
+Da, a and Deff distributions that could be analyzed further
 """
 
 import csv 
