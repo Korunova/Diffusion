@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr  3 21:43:32 2024
-
-@author: Huawei
+Plots of the standard deviation of X and Y displacements at 10 ms from tracks estimated by Mosaic Suite and passing SPT analysis
 """
 
 import csv 
