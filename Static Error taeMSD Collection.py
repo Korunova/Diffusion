@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Apr  3 21:43:32 2024
+SPT analyses of tracks estimated by Mosaic Suite from fixed sample
 
-@author: Huawei
+as a result, it collecte time- and ensemble- averaged MSD associated with static error
 """
 
 import csv 
