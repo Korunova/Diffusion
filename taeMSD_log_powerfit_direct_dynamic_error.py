@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Apr  3 21:43:32 2024
-
+time- and ensemble averaged MSD calculated from tracks estimated by Mosaic Suite with direct estimation of dynamic error
 @author: Huawei
 """
 
